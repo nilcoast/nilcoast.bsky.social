@@ -1,7 +1,7 @@
-chicago.wthr.cloud
+nilcoast.wthr.cloud
 ---
 
-Every 5 hours, post the current conditions to @chicago.wthr.cloud
+Every 5 hours, post an article from enlace.space / hoarder
 
 ## Basic Flow
 
